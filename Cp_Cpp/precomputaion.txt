@@ -1,0 +1,3 @@
+Precomputation is the method of computing some series first(it can
+be divisor upto n,factorial, prefix sum etc)and using it to obtain 
+various results in certain test cases.
